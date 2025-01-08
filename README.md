@@ -1,2 +1,3 @@
 # Analise-Fraude-Bancario
 Simulação Fraude Bancario para analise de dados e ML
+Este estudo simula a implementação de uma solução de big data e machine learning no combate às fraudes em cartões de crédito de um banco de grande porte. O banco enfrentava um aumento de 30% nas fraudes em 2023, resultando em perdas de R$ 100 milhões. Com a adoção de técnicas de stream de dados, aprendizado de máquina e visualização de dados, a fraude foi reduzida em 80%, economizando R$ 50 milhões anuais e aumentando a satisfação dos clientes em 10%. A solução identificou novas tipologias de fraude, garantindo uma proteção mais robusta contra ameaças emergentes.
